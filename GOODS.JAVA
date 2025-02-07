@@ -10,7 +10,7 @@ public class AddTwoNumbers {
         System.out.print("Enter second number: ");
         double num2 = scanner.nextDouble();
 
- //HELLO
+ 
         double sum = num1 + num2;
 
         System.out.println("The sum is: " + sum);
